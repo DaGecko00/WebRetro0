@@ -1,7 +1,7 @@
 function webretroEmbed(node, path, queries) {
 	var frame = document.createElement("iframe");
 	frame.style = "border: none; display: block; width: 100%; height: 100%;";
-	
+	fcccfcfcfcfcfcfcc
 	// change rom path to absolute if it isn't already
 	if (queries.rom) {
 		var link = document.createElement("a");
